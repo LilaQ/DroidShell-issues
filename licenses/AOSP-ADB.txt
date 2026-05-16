@@ -1,0 +1,28 @@
+# Android Open Source Project / Android Debug Bridge
+
+DroidShell implements functionality compatible with Android Debug Bridge behavior and Android Wireless debugging.
+
+Portions of the ADB protocol implementation may be based on, derived from, or informed by Android Open Source Project materials.
+
+## Copyright
+
+Copyright (C) The Android Open Source Project
+
+## License
+
+Licensed under the Apache License, Version 2.0.
+
+See `APACHE-2.0.txt`.
+
+## Relevant Sources
+
+Relevant Android Open Source Project areas may include:
+
+- Android Debug Bridge protocol definitions
+- ADB host/device communication behavior
+- Wireless debugging pairing and connection behavior
+- AOSP `platform/system/adb` and related ADB sources
+
+## Disclaimer
+
+DroidShell is not affiliated with, endorsed by, sponsored by or officially connected to Google, Android or the Android Open Source Project.
