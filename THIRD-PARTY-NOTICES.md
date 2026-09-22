@@ -40,4 +40,4 @@ DroidShell uses firebase/boringSSL-SwiftPM as a Swift Package Manager package fo
 
 See:
 
-- `licenses/BORINGSSL-SWIFTPM.txt`
+- `licenses/BORINGSSL.txt`

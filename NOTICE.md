@@ -1,6 +1,6 @@
 # DroidShell Third-Party Notices
 
-DroidShell is a proprietary iOS application.
+DroidShell is a proprietary application for Apple platforms.
 
 This file provides attribution and license notices for third-party open source components, protocols and projects used by DroidShell.
 
@@ -53,7 +53,7 @@ DroidShell uses firebase/boringSSL-SwiftPM as a Swift Package Manager distributi
 
 See:
 
-- `licenses/BORINGSSL-SWIFTPM.txt`
+- `licenses/BORINGSSL.txt`
 
 ## Disclaimer
 

@@ -9,8 +9,8 @@ info@emudev.de
 When reporting a bug, please include:
 
 - DroidShell app version
-- iOS version
-- iPhone or iPad model
+- Apple platform and OS version
+- Apple device model
 - Android device model
 - Android version
 - Connection mode:

@@ -40,7 +40,7 @@ Purpose: Swift Package Manager distribution wrapper for BoringSSL
 
 See:
 
-- `licenses/BORINGSSL-SWIFTPM.txt`
+- `licenses/BORINGSSL.txt`
 
 ## No Open Source License for DroidShell
 
